@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EightBall</string>
+    <string name="text_button">Ask</string>
+    <string name="top_screen_text">Make your decisions easier!</string>
+</resources>
